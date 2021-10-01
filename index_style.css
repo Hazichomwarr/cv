@@ -2,7 +2,7 @@
 body {
     width: 100%;
     font-size: 100%;
-    background: url(media/Haz_image.jpg);
+    background: url("media/Haz_image.jpg");
     background-position: left;
     background-color: rgb(64, 194, 238);
     background-blend-mode:overlay;
@@ -120,7 +120,7 @@ h3 {
     display: none;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 500px) {
     #hobbies p {
         display: block;
         border:rgb(245, 246, 248) 1px solid;
