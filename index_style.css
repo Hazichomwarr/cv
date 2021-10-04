@@ -71,16 +71,17 @@ main {
 #story {
     margin: 2%;
     padding: 2%;
-    width: 55%;
+    width: 45%;
     border: 1px black solid;
     overflow: auto;
 }
 #skills {
     margin: 2%;
-    padding: 2%;
-    width: 45%;
+    width: 35%;
     border: 1px black solid;
     overflow: auto;
+    font-size: .75em;
+    color: rgb(241, 241, 239);
 }
 
 aside {
