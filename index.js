@@ -49,8 +49,8 @@ function the_game() {
     let number_2 = ['2', '22', '222', '2222', '21', '23', 'two', 'too', 'TWO', 'deux', 'DEUX',]
     let number_3 = ['3', '33', '333', '3333', '31', '32', 'three', 'tree', 'THREE', 'trois', 'TROIS',]
 
-    let the_yess = [ 'yes', 'YES', 'yyes', 'yee', 'yess', 'wi', 'oui', 'OUI', 'y', 'Y', 'yeah','ya', 'YA']
-    let the_nos = ['no', 'nn', 'nno', 'noo', 'NO', 'non', 'NON','nono','N', 'n', 'na', 'N', 'NA']
+    let the_yess = [ 'Yes', 'yes', 'YES', 'yyes', 'yee', 'yess', 'wi', 'oui', 'OUI', 'y', 'Y', 'yeah','ya', 'YA']
+    let the_nos = ['No', 'no', 'nn', 'nno', 'noo', 'NO', 'non', 'NON','nono','N', 'n', 'na', 'N', 'NA']
     
     alert('Memorize just ONE of the colors: ' + colors +"\n\nWhen Ready click 'OK' ");
 
