@@ -25,7 +25,7 @@ function outliers_answers() {
 }
 
 function start_message() {
-    alert("Ok I will guess your favorite color in this game OK?" );
+    alert("Ok I will guess your favorite color in this game OK? to continue, (click <OK> or <close> " );
 
     /*if (prmpt === "yes")
         document.getElementById('game').innerHTML = "Awsome! let's start!!!"
@@ -52,7 +52,7 @@ function the_game() {
     let the_yess = [ 'Yes', 'yes', 'YES', 'yyes', 'yee', 'yess', 'wi', 'oui', 'OUI', 'y', 'Y', 'yeah','ya', 'YA']
     let the_nos = ['No', 'no', 'nn', 'nno', 'noo', 'NO', 'non', 'NON','nono','N', 'n', 'na', 'N', 'NA']
     
-    alert('Memorize just ONE of the colors: ' + colors +"\n\nWhen Ready click 'OK' ");
+    alert('Memorize just ONE of the colors: ' + colors +"\n\nWhen Ready click 'OK' or 'close' ");
 
     //prompt("Now, I will ask you just 3 questions, to guess your color OK?");
     
