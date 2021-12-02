@@ -5,7 +5,7 @@ function divShow() {
 function game_rate() {
     satisfied = prompt("Rate this game please (from a scale of 1 to 5):  ");
     if (satisfied < "3")
-        document.getElementById('game').innerHTML = ("hmm! you didn't like the game I'll try to satisfied you next time!")
+        document.getElementById('game').innerHTML = ("hmm! you didn't like the game I'll try to satisfy you next time!")
     else if (satisfied > "3")
         document.getElementById('game').innerHTML = ("Yeah! you loved the game, Thank you!!!!")
     else if (satisfied === "3")
