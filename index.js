@@ -11,7 +11,7 @@ function game_rate() {
     else if (satisfied === "3")
         document.getElementById('game').innerHTML = ("THANKS!")
     else
-        document.getElementById('game').innerHTML = ("No rate from you, that's fair too!")
+        document.getElementById('game').innerHTML = ("No rating from you, that's fair too!")
 
 }
 
